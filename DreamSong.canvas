@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b07c897f5fa7bac3","x":-691,"y":242,"width":250,"height":60,"type":"text","text":"Jevons Paradox"},
+		{"id":"0cd8cd0cc54545ab","type":"text","text":"advancement is not betterment","x":-760,"y":-380,"width":250,"height":60},
+		{"id":"f1707ea05dcdac5c","type":"text","text":"privatise the gains, socialise the losses","x":-540,"y":-200,"width":250,"height":60},
+		{"id":"0fbe098d5658374c","type":"text","text":"Ubuntu - I am because we are","x":-160,"y":80,"width":250,"height":60}
+	],
+	"edges":[]
+}
